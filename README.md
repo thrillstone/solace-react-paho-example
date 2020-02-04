@@ -32,6 +32,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## How to Connect To Solace Messaging Service in 6 easy Steps
+1) Head over to your service dashboard and select the Connect tab.
+![Step1](./setup-img/Step1.png)
+2) Scroll down until you see MQTT and open that tab.
+![Step2](./setup-img/Step2.png)
+3) Within the tab, copy the contents of `Password` and `WebSocket MQTT Host`.
+![Step3](./setup-img/Step3.png)
+4) Open the repository in your favorite text editor and navigate to the `src` folder.
+![Step4](./setup-img/Step4.png)
+5) Find and open the `messaging-options.js` file.
+![Step5](./setup-img/Step5.png)
+6) Paste the contents that you copied into the respective labeled slots.
+![Step6](./setup-img/Step6.png)
+
+You are good to go!
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
