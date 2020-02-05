@@ -37,14 +37,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![Step1](./setup-img/Step1.png)
 2) Scroll down until you see MQTT and open that tab.
 ![Step2](./setup-img/Step2.png)
-3) Within the tab, copy the contents of `Password` and `WebSocket MQTT Host`.
-![Step3](./setup-img/Step3.png)
+3) Within the tab, copy the contents of `Password` and `WebSocket Secured MQTT Host`.
+![Step3](./setup-img/Step3-2.png)
 4) Open the repository in your favorite text editor and navigate to the `src` folder.
 ![Step4](./setup-img/Step4.png)
 5) Find and open the `messaging-options.js` file.
 ![Step5](./setup-img/Step5.png)
-6) Paste the contents that you copied into the respective labeled slots.
-![Step6](./setup-img/Step6.png)
+6) Paste the contents that you copied into the respective labeled slots.  
+![Step6](./setup-img/Step6-2.png)
 
 You are good to go!
 
