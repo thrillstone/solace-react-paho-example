@@ -37,7 +37,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![Step1](./setup-img/Step1.png)
 2) Scroll down until you see MQTT and open that tab.
 ![Step2](./setup-img/Step2.png)
-3) Within the tab, copy the contents of `Password` and `WebSocket Secured MQTT Host`.
+3) Within the tab, copy the contents of `Password` and `WebSocket Secured MQTT Host`, but make sure to only grab what's inside `wss://` and `:8443`.
 ![Step3](./setup-img/Step3-2.png)
 4) Open the repository in your favorite text editor and navigate to the `src` folder.
 ![Step4](./setup-img/Step4.png)
