@@ -1,8 +1,8 @@
 export default {
 	userName: "solace-cloud-client",
-	password: "<connection details password>",
+	password: "hg53fup9oc6uaettei8cc7f0cj",
 	invocationContext: {
-		host: "<WebSocket Secured MQTT Host>",
+		host: "mr2zf0219ie6j.messaging.mymaas.net",
 		port: 8443,
 		clientId: "react-app"
 	},
