@@ -4,7 +4,7 @@ export default {
 	invocationContext: {
 		host: "<WebSocket Secured MQTT Host>",
 		port: 8443,
-		clientId: "react-app"
+		clientId: ""
 	},
 	timeout: 3,
 	keepAliveInterval: 60,
