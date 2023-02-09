@@ -1,11 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation
 
+Navagate to the project directory, and install the required npm packages
+### `npm install`
+
+> 📢 If the app crashes because of this error: `Error: error:0308010C:digital envelope routines::unsupported`, run
+### `export NODE_OPTIONS=--openssl-legacy-provider`
+
+## Run the App
 In the project directory, you can run:
-
 ### `npm start`
-
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
